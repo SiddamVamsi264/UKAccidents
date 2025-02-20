@@ -1,5 +1,10 @@
 **Road Accident Dashboard in Excel**
-Excel dashboard project: road accident data analysis. KPIs, filters (severity, vehicle, year 2021-22), interactive via slicers. Kaggle demo dataset.
+
+**Overview**
+
+This project involves the design and development of a dynamic and interactive dashboard using Excel to analyze road accidents data. The dashboard is designed to display key performance indicators (KPIs) and various insights from the data, allowing the user to filter the information based on accident severity, vehicle types, and year (2021-2022). This is achieved using slicers and filters for interactivity. The data used in the project is taken from a Kaggle dataset, which is a demo dataset for practice purposes.
+
+**Data File**
 
 You can access the project files, including the data used for analysis, through the following Google Drive link:
 
@@ -7,9 +12,7 @@ You can access the project files, including the data used for analysis, through 
 
 Please note that this link will take you to a Google Sheet containing the dataset used for the Excel-based Road Accident Dashboard. You can download the dataset and use it to replicate the steps described in the project.
 
-**Overview**
 
-This project involves the design and development of a dynamic and interactive dashboard using Excel to analyze road accidents data. The dashboard is designed to display key performance indicators (KPIs) and various insights from the data, allowing the user to filter the information based on accident severity, vehicle types, and year (2021-2022). This is achieved using slicers and filters for interactivity. The data used in the project is taken from a Kaggle dataset, which is a demo dataset for practice purposes.
 
 **Key Features**
 
